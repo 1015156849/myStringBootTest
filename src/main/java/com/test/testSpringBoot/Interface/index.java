@@ -14,7 +14,7 @@ public class index {
 
 
 	public ModelAndView index1() {
-		return new ModelAndView("root");
+		return new ModelAndView("index");
 	}
 
 }
